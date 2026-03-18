@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.header {
+    background-color: #0cae5c;
+    color: white;
+    padding: 10px;
+}
+
+.badge {
+    background-color: #b7f4c9;
+    color: #0cae5c;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 16px;
+}
+
+
+.contenido {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+li {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
